@@ -1,0 +1,16 @@
+{
+    "login": {
+        "Username": "TestUser355",
+        "Password": ".&eV2yB8h=sO"
+    },
+    "add": {
+        "firstName": "Barbie",
+        "lastName": "Doll",
+        "dependants": 2
+    },
+    "update": {
+        "firstName": "Kitty",
+        "lastName": "Kat",
+        "dependants": 1
+    }
+}
