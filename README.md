@@ -12,10 +12,6 @@ To get started with the project, follow these steps:
 
 **Install Dependencies:** Run **'npm install'** to install all the necessary dependencies.
 
-**Run Tests Locally:** Execute **'npm run test'** to run the Cypress tests locally.
-
-**View Test Results:** Once the tests finish running, Cypress will display the results in an interactive test runner.
-
 ## Test Specs:
 The test specs are located under **'e2e'** directory. We can add new tests or modify existing ones as per the requirement.
 
@@ -30,6 +26,14 @@ Cypress configuration details are placed in **'cypress.config.js'** file
 
 ## package.json:
 This file defines project dependencies and scripts.
+
+## Run and view the test results
+
+**Run Tests on GUI:** Execute **'npx cypress open'** to run the Cypress tests in GUI mode.
+
+**Run Tests in Headless mode:** Execute **'npx cypress run'** to run the Cypress tests in headless mode.
+
+**View Test Results:** Once the tests finish running, Cypress will display the results in an interactive test runner.
 
 ## Best practices followed in this project
 
